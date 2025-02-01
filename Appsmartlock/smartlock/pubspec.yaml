@@ -1,0 +1,37 @@
+name: lock
+description: "A new Flutter project."
+
+publish_to: 'none' # This project is not published to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8  # Icons for iOS-style UI elements
+  font_awesome_flutter: ^10.5.0  # Font Awesome icons
+  curved_navigation_bar: ^1.0.6  # Curved navigation bar
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  firebase_database: ^11.0.3
+  cloud_firestore: ^5.1.0
+  firebase_messaging: ^15.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0  # Code style analysis
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Image1.png
+    - assets/facebook_icon.png
+    - assets/google_icon.png
+    - assets/linkedin_icon.png
+    - assets/Image2.png
+    - assets/Image 3.jpg  # Corrected asset name
+    - assets/dash.jpg

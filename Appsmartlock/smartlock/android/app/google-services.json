@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46027084067",
+    "project_id": "lockly-56b9d",
+    "storage_bucket": "lockly-56b9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46027084067:android:c3483d3b0cd9b0ec737c96",
+        "android_client_info": {
+          "package_name": "com.example.lock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMX_ek8-79_3z7IXIuaj_OyPoqmeTBWCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
